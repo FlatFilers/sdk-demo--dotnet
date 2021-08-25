@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "dotnet_test": {
+    "FlatfileDotNet": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,

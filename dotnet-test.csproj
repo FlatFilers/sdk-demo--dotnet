@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>dotnet_test</RootNamespace>
+    <RootNamespace>FlatfileDotNet</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

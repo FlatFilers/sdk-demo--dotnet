@@ -1,10 +1,17 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using System;
 using JWT.Algorithms;
 using JWT.Builder;
-using dotnet_test.Models;
+using FlatfileDotNet.Models;
 
-namespace dotnet_test.Controllers
+namespace FlatfileDotNet.Models
+{
+    public class IndexViewModel
+    {
+        public string Token { get; set; }
+    }
+}
+
+namespace FlatfileDotNet.Controllers
 {
   public class HomeController : Controller
   {
